@@ -1,0 +1,6 @@
+c:\users\zach\documents\visual studio 2015\Projects\TestWorkspace\TestWorkspace\bin\Debug\TestWorkspace.exe.config
+c:\users\zach\documents\visual studio 2015\Projects\TestWorkspace\TestWorkspace\bin\Debug\TestWorkspace.exe
+c:\users\zach\documents\visual studio 2015\Projects\TestWorkspace\TestWorkspace\bin\Debug\TestWorkspace.pdb
+c:\users\zach\documents\visual studio 2015\Projects\TestWorkspace\TestWorkspace\obj\Debug\TestWorkspace.exe
+c:\users\zach\documents\visual studio 2015\Projects\TestWorkspace\TestWorkspace\obj\Debug\TestWorkspace.pdb
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TestWorkspace\TestWorkspace\obj\Debug\TestWorkspace.csprojResolveAssemblyReference.cache
